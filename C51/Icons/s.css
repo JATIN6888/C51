@@ -1,0 +1,32 @@
+h1{
+    background-color: rgb(0, 45, 248);
+font-family: sans-serif;
+}
+body{
+background-color: blueviolet;
+}
+p,h1{
+    text-align: center;
+    color:#139322
+}
+.social{
+    display: flex;
+    justify-content: flex-end;
+}
+/*{
+    border:solid;
+}*/
+p{
+    background-color: rgb(226, 43, 165);
+}
+A{
+    background-color: rgb(255, 0, 128);
+}
+.f{
+    display:flex;
+    justify-content: space-between
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
